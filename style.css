@@ -1,0 +1,55 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-color: #fbf6e2;
+}
+.img-header-cstm {
+  height: 95%;
+  width: 80%;
+}
+.line-sm-cstm {
+  height: 2px;
+  width: 70px;
+  background-color: #e74040;
+}
+
+.line-md-cstm {
+  height: 5px;
+  width: 70px;
+  background-color: #e74040;
+}
+
+.border-form-cstm {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.font-color-cstm {
+  color: #e6532c;
+}
+
+.font-link-cstm {
+  text-decoration: none;
+  font-size: 18px;
+  color: #5bbcff;
+}
+
+.card-porto-cstm {
+  margin-bottom: 0;
+}
+
+.img-customer-cstm {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.icon-star-cstm {
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: gold;
+}
+
+footer {
+  background-color: #12372a;
+}
